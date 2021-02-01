@@ -66,28 +66,28 @@ MVC .NET Framework, SignalR, JavaScript, WEB Api, HTML5, CSS3, C#, Linq, MS SQL 
 ## USERS IN SEED DATA 
 (for testing purposes and data seeding)
 
-*	Administrator:
+Administrator:
   * email:	admin@gmail.com
   * pass:	ChangeItAsap!123
 
-*	Database Manager:
+Database Manager:
   *	email:	databasemanager@admin.com
   *	pass:	ChangeItAsap!123
 
-*	User:
+User:
   *	email:	vasileiadis.sta@admin.com
   *	pass:	ChangeItAsap!123
   *	/*includes favorites and orders*/
 
-*	User:
+User:
   *	email:	geoergemalandris@gmail.com
   *	pass:	ChangeItAsap!123
 
-*	User:
+User:
   *	email:	luke@gmail.com
   *	pass:	ChangeItAsap!123
 
-*	User:
+User:
   *	email:	darth@gmail.com
   *	pass:	ChangeItAsap!123
   *	/*includes favorites and orders*/
