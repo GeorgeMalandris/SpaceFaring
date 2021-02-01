@@ -69,9 +69,11 @@ MVC .NET Framework, SignalR, JavaScript, WEB Api, HTML5, CSS3, C#, Linq, MS SQL 
 *	Administrator:
   * email:	admin@gmail.com
   * pass:	ChangeItAsap!123
+  
 *	Database Manager:
   *	email:	databasemanager@admin.com
   *	pass:	ChangeItAsap!123
+  
 *	User:
   *	email:	vasileiadis.sta@admin.com
   *	pass:	ChangeItAsap!123
