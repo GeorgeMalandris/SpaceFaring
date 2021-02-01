@@ -10,12 +10,12 @@ This is a GroupProject developed for CB11 C# Coding Bootcamp.
 4. Vasilis Dramis
 5. Angeliki Papantoniou (Resigned)
 
-# Introduction
+## Introduction
 The app has two parts, one for the user and one for the administrator. 
 The user can see available flights for several planets. He can also see information about the planets and different races. After he chooses a flight he can book flight seats and pay through paypal. When his order is completed he can print the order. If he is a user, (is registered), he can add flights in his favorites or see his older orders and tickets.
 The administrator can make crud operations in the database through an administrator interface. He can also see some statistics about the database. In order to see the administrators functionality, he must login as admin.
 
-# Info about the application:
+## Info about the application:
 In this application, users can book flights to travel to planets in the galaxy.
 Users will be redirected to users front end panel.
 Users can explore in different views information about the flights, planets that are available, races
@@ -25,13 +25,13 @@ Administration Roles include Admin and DatabaseManager.
 When logging in they will be redirected to admin panel.
 Admin and DatabaseManager can post data in database using admin panel navigation.
 
-# Basic info for testing:
+## Basic info for testing:
 Application uses three different roles (Admin, DatabaseManager, User).
 Admin and DatabaseManager will be redirected and use the admin panel.
 DatabaseManager is the only role that can perform delete in tickets and orders.
 Users will only reach user's front end and functionality.
 
-# Features included:
+## Features included:
 *	USER Front End View, 
 *	USER Create/Manage Account, 
 *	USER Log In via Google, 
@@ -60,30 +60,33 @@ Users will only reach user's front end and functionality.
 *	BACKEND Application implements Functional Payments with PayPal
 *	BACKEND Application implements SignalR for FLIGHTS updates in all clients
 
-# Technologies Used:
+## Technologies Used:
 MVC .NET Framework, SignalR, JavaScript, WEB Api, HTML5, CSS3, C#, Linq, MS SQL Server, JQuery, Bootstrap
 
-# USERS IN SEED DATA 
+## USERS IN SEED DATA 
 (for testing purposes and data seeding)
 
 *	Administrator:
   * email:	admin@gmail.com
   * pass:	ChangeItAsap!123
-  
+
 *	Database Manager:
   *	email:	databasemanager@admin.com
   *	pass:	ChangeItAsap!123
-  
+
 *	User:
   *	email:	vasileiadis.sta@admin.com
   *	pass:	ChangeItAsap!123
   *	/*includes favorites and orders*/
+
 *	User:
   *	email:	geoergemalandris@gmail.com
   *	pass:	ChangeItAsap!123
+
 *	User:
   *	email:	luke@gmail.com
   *	pass:	ChangeItAsap!123
+
 *	User:
   *	email:	darth@gmail.com
   *	pass:	ChangeItAsap!123
