@@ -41,24 +41,24 @@ Users will only reach user's front end and functionality.
 *	USER Pay with PayPal,
 *	USER Print Pdf of Order/Tickets after success payment,  
 *	USER -Authenticated Only- Viewing older Orders,
-•	USER -Authenticated Only- Printing PDF of older Orders and Tickets,
-•	USER -Authenticated Only- Favoriting Flights,
-•	USER -Authenticated Only- Manage Favorites,
-•	ADMIN/DB MANAGER Admin Panel,
-•	ADMIN/DB MANAGER Create/Edit Flights,
-•	ADMIN/DB MANAGER Create/Edit Planets,
-•	ADMIN/DB MANAGER Create/Edit Races,
-•	ADMIN/DB MANAGER Create/Edit Race Classifications,
-•	ADMIN/DB MANAGER Create/Edit Climates,
-•	ADMIN/DB MANAGER Create/Edit Starships,
-•	ADMIN/DB MANAGER Create/Edit Flight Paths,
-•	ADMIN/DB MANAGER Create/Edit Terrains,
-•	ADMIN/DB MANAGER Edit User Accounts,
-•	ADMIN/DB MANAGER Edit Seats for each Flight,
-•	ADMIN/DB MANAGER Explore Some statistics at Admin home page,
-•	BACKEND Application implements File Manager System
-•	BACKEND Application implements Functional Payments with PayPal
-•	BACKEND Application implements SignalR for FLIGHTS updates in all clients
+*	USER -Authenticated Only- Printing PDF of older Orders and Tickets,
+*	USER -Authenticated Only- Favoriting Flights,
+*	USER -Authenticated Only- Manage Favorites,
+*	ADMIN/DB MANAGER Admin Panel,
+*	ADMIN/DB MANAGER Create/Edit Flights,
+*	ADMIN/DB MANAGER Create/Edit Planets,
+*	ADMIN/DB MANAGER Create/Edit Races,
+*	ADMIN/DB MANAGER Create/Edit Race Classifications,
+*	ADMIN/DB MANAGER Create/Edit Climates,
+*	ADMIN/DB MANAGER Create/Edit Starships,
+*	ADMIN/DB MANAGER Create/Edit Flight Paths,
+*	ADMIN/DB MANAGER Create/Edit Terrains,
+*	ADMIN/DB MANAGER Edit User Accounts,
+*	ADMIN/DB MANAGER Edit Seats for each Flight,
+*	ADMIN/DB MANAGER Explore Some statistics at Admin home page,
+*	BACKEND Application implements File Manager System
+*	BACKEND Application implements Functional Payments with PayPal
+*	BACKEND Application implements SignalR for FLIGHTS updates in all clients
 
 # Technologies Used:
 MVC .NET Framework, SignalR, JavaScript, WEB Api, HTML5, CSS3, C#, Linq, MS SQL Server, JQuery, Bootstrap
@@ -66,24 +66,24 @@ MVC .NET Framework, SignalR, JavaScript, WEB Api, HTML5, CSS3, C#, Linq, MS SQL 
 # USERS IN SEED DATA 
 (for testing purposes and data seeding)
 
-•	Administrator:
-  o	email:	admin@gmail.com 
-  o	pass:	ChangeItAsap!123
-•	Database Manager:
-  o	email:	databasemanager@admin.com 
-  o	pass:	ChangeItAsap!123
-•	User:
-  o	email:	vasileiadis.sta@admin.com 
-  o	pass:	ChangeItAsap!123
-  o	/*includes favorites and orders*/
-•	User:
-  o	email:	geoergemalandris@gmail.com 
-  o	pass:	ChangeItAsap!123
-•	User:
-  o	email:	luke@gmail.com 
-  o	pass:	ChangeItAsap!123
-•	User:
-  o	email:	darth@gmail.com 
-  o	pass:	ChangeItAsap!123
-  o	/*includes favorites and orders*/
+*	Administrator:
+  *	email:	admin@gmail.com 
+  *	pass:	ChangeItAsap!123
+*	Database Manager:
+  *	email:	databasemanager@admin.com 
+  *	pass:	ChangeItAsap!123
+*	User:
+  *	email:	vasileiadis.sta@admin.com 
+  *	pass:	ChangeItAsap!123
+  *	/*includes favorites and orders*/
+*	User:
+  *	email:	geoergemalandris@gmail.com 
+  *	pass:	ChangeItAsap!123
+*	User:
+  *	email:	luke@gmail.com 
+  *	pass:	ChangeItAsap!123
+*	User:
+  *	email:	darth@gmail.com 
+  *	pass:	ChangeItAsap!123
+  *	/*includes favorites and orders*/
 
