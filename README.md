@@ -32,7 +32,7 @@ DatabaseManager is the only role that can perform delete in tickets and orders.
 Users will only reach user's front end and functionality.
 
 # Features included:
-•	USER Front End View,
+•	USER Front End View,\n
 •	USER Create/Manage Account,
 •	USER Log In via Google,
 •	USER Exploring/Booking Flights,
