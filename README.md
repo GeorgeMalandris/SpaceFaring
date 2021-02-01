@@ -32,15 +32,15 @@ DatabaseManager is the only role that can perform delete in tickets and orders.
 Users will only reach user's front end and functionality.
 
 # Features included:
-•	USER Front End View,\n
-•	USER Create/Manage Account,
-•	USER Log In via Google,
-•	USER Exploring/Booking Flights,
-•	USER Exploring Planets, 
-•	USER Exploring Races,
-•	USER Pay with PayPal,
-•	USER Print Pdf of Order/Tickets after success payment,  
-•	USER -Authenticated Only- Viewing older Orders,
+*	USER Front End View, 
+*	USER Create/Manage Account, 
+*	USER Log In via Google, 
+*	USER Exploring/Booking Flights, 
+*	USER Exploring Planets, 
+*	USER Exploring Races,
+*	USER Pay with PayPal,
+*	USER Print Pdf of Order/Tickets after success payment,  
+*	USER -Authenticated Only- Viewing older Orders,
 •	USER -Authenticated Only- Printing PDF of older Orders and Tickets,
 •	USER -Authenticated Only- Favoriting Flights,
 •	USER -Authenticated Only- Manage Favorites,
