@@ -67,23 +67,22 @@ MVC .NET Framework, SignalR, JavaScript, WEB Api, HTML5, CSS3, C#, Linq, MS SQL 
 (for testing purposes and data seeding)
 
 *	Administrator:
-  *	email:	admin@gmail.com 
-  -	pass:	ChangeItAsap!123
+  * email:	admin@gmail.com
+  * pass:	ChangeItAsap!123
 *	Database Manager:
-  *	email:	databasemanager@admin.com 
+  *	email:	databasemanager@admin.com
   *	pass:	ChangeItAsap!123
 *	User:
-  *	email:	vasileiadis.sta@admin.com 
+  *	email:	vasileiadis.sta@admin.com
   *	pass:	ChangeItAsap!123
   *	/*includes favorites and orders*/
 *	User:
-  *	email:	geoergemalandris@gmail.com 
+  *	email:	geoergemalandris@gmail.com
   *	pass:	ChangeItAsap!123
 *	User:
-  *	email:	luke@gmail.com 
+  *	email:	luke@gmail.com
   *	pass:	ChangeItAsap!123
 *	User:
-  *	email:	darth@gmail.com 
+  *	email:	darth@gmail.com
   *	pass:	ChangeItAsap!123
   *	/*includes favorites and orders*/
-
